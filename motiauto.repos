@@ -1,1 +1,25 @@
 repositories:
+    moti_auto_launch:
+        type: git
+        url: https://github.com/MotiAuto/moti_auto_launch.git
+        version: main
+
+    ps4_ros2:
+        type: git
+        url: https://github.com/MotiAuto/ps4_ros2.git
+        version: main
+
+    motion_modeler_ros2:
+        type: git
+        url: https://github.com/MotiAuto/motion_modeler_ros2.git
+        version: main
+
+    serial_connector_ros2:
+        type: git
+        url: https://github.com/MotiAuto/serial_connector_ros2.git
+        version: main
+
+    motiodom:
+        type: git
+        url: https://github.com/MotiAuto/motiodom.git
+        version: main
