@@ -5,6 +5,7 @@ echo "Install moti auto repos."
 vcs import src < motiauto.repos
 
 echo "Install thirdparty package."
+vcs import src < thirdparty.repos
 
 source /opt/ros/humble/setup.bash
 rosdep update
