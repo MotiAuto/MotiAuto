@@ -1,0 +1,10 @@
+repositories:
+    haya_imu_ros2:
+        type: git
+        url: https://github.com/motii8128/haya_imu_ros2.git
+        version: main
+
+    haya_imu_msgs:
+        type: git
+        url: https://github.com/soarbear/haya_imu_msgs.git
+        version: main
