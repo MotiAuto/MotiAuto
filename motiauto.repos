@@ -28,5 +28,8 @@ repositories:
         type: git
         url: https://github.com/MotiAuto/cmd_smoother_ros2.git
         version: main
-    
-    
+
+    vel_pid_ros2:
+        type: git
+        url: https://github.com/MotiAuto/vel_pid_ros2.git
+        version: main
