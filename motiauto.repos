@@ -4,32 +4,32 @@ repositories:
         url: https://github.com/MotiAuto/moti_auto_launch.git
         version: main
 
-    ps4_ros2:
+    wpc_app_bridge:
         type: git
-        url: https://github.com/MotiAuto/ps4_ros2.git
+        url: https://github.com/MotiAuto/wpc_app_bridge.git
         version: main
 
-    motion_modeler_ros2:
+    simple_local_planner:
         type: git
-        url: https://github.com/MotiAuto/motion_modeler_ros2.git
+        url: https://github.com/MotiAuto/simple_local_planner.git
         version: main
 
-    serial_connector_ros2:
+    waypoint-create-app:
         type: git
-        url: https://github.com/MotiAuto/serial_connector_ros2.git
+        url: https://github.com/MotiAuto/waypoint-create-app.git
         version: main
 
-    motiodom:
+    linear_path_planner:
         type: git
-        url: https://github.com/MotiAuto/motiodom.git
+        url: https://github.com/MotiAuto/linear_path_planner.git
         version: main
 
-    cmd_smoother_ros2:
+    turtlesim_connector:
         type: git
-        url: https://github.com/MotiAuto/cmd_smoother_ros2.git
+        url: https://github.com/MotiAuto/turtlesim_connector.git
         version: main
 
-    vel_pid_ros2:
+    ioo_ros2:
         type: git
-        url: https://github.com/MotiAuto/vel_pid_ros2.git
+        url: https://github.com/MotiAuto/ioo_ros2.git
         version: main
