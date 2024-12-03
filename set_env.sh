@@ -2,6 +2,8 @@
 
 sudo apt install python3-vcstool -y
 
+rm -rf ./src ./log ./install ./build
+
 mkdir src
 echo "Install moti auto repos."
 vcs import src < motiauto.repos
