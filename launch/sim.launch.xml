@@ -1,5 +1,0 @@
-<launch>
-    <include file="$(find-pkg-share moti_auto_launch)/launch/control.launch.xml"/>
-    <include file="$(find-pkg-share moti_auto_launch)/launch/planning.launch.xml"/>
-    <include file="$(find-pkg-share moti_auto_launch)/launch/sim/turtlesim_connector.launch.xml"/>
-</launch>

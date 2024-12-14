@@ -1,9 +1,0 @@
-<launch>
-    <node pkg="linear_path_planner" exec="linear_path_planner_node">
-        <remap from="/target" to="/target"/>
-        <remap from="/current" to="/current"/>
-        <remap from="/path" to="/path"/>
-
-        <param name="step_size" value="0.1"/>
-    </node>
-</launch>

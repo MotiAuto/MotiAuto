@@ -1,3 +1,0 @@
-<launch>
-    <include file="$(find-pkg-share moti_auto_launch)/launch/localization/ioo_ros2.launch.xml"/>
-</launch>

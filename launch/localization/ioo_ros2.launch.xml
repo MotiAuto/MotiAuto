@@ -1,6 +1,0 @@
-<launch>
-    <node pkg="ioo_ros2" exec="ioo_ros2_node">
-        <remap from="/imu" to="/imu"/>
-        <remap from="/odom" to="/odom"/>
-    </node>
-</launch>
