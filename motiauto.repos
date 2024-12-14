@@ -38,3 +38,8 @@ repositories:
         type: git
         url: https://github.com/MotiAuto/omni_vel_ros2.git
         version: main
+
+    pid_local_planner:
+        type: git
+        url: https://github.com/MotiAuto/pid_local_planner.git
+        version: main
