@@ -1,0 +1,11 @@
+<launch>
+    <node pkg="rosbridge_server" exec="rosbridge_websocket">
+        <param name="use_sim_time" value="false" />
+        <param name="port" value="64205" />
+    </node>
+
+    <node pkg="wpc_app_bridge" exec="wpc_app_bridge_node">
+        <remap from="wpc_app_bridge/current" to="/current"/>
+        <remap from="wpc_app_bridge/target" to="/target"/>
+    </node>
+</launch>

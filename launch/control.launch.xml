@@ -1,0 +1,3 @@
+<launch>
+    <include file="$(find-pkg-share moti_auto_launch)/launch/control/wpc_app_bridge.launch.xml"/>
+</launch>
