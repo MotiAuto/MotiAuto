@@ -2,6 +2,7 @@
 
 sudo apt install python3-vcstool -y
 sudo apt install nodejs npm -y
+sudo apt install -y ros-$ROS_DISTRO-rosbridge-suite
 
 rm -rf ./src ./log ./install ./build
 
