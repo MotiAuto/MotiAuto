@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo apt install python3-vcstool -y
+sudo apt install nodejs npm -y
 
 rm -rf ./src ./log ./install ./build
 
