@@ -43,3 +43,13 @@ repositories:
         type: git
         url: https://github.com/MotiAuto/pid_local_planner.git
         version: main
+
+    dualsense_ros2:
+        type: git
+        url: https://github.com/MotiAuto/dualsense_ros2.git
+        version: main
+
+    serial_controller:
+        type: git
+        url: https://github.com/MotiAuto/serial_controller.git
+        version: main
