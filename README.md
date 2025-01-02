@@ -16,3 +16,15 @@ chmod +x ./set_env.sh
 ```
 ros2 launch moti_auto_launch sim.launch.xml
 ```
+
+# Auto Driving
+自律走行ソフトウェアの起動
+```
+ros2 launch moti_auto_launch auto.launch.xml
+```
+
+# Manual Driving
+手動でハードウェア試す用
+```
+ros2 launch moti_auto_launch manual.launch.xml
+```
