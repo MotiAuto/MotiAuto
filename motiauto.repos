@@ -53,3 +53,29 @@ repositories:
         type: git
         url: https://github.com/MotiAuto/serial_controller.git
         version: main
+
+    
+    icp_odom_ros2:
+        type: git
+        url: https://github.com/MotiAuto/icp_odom_ros2.git
+        version: main
+
+    ransac_line_detector:
+        type: git
+        url: https://github.com/MotiAuto/ransac_line_detector.git
+        version: main
+
+    webcam_face_detector:
+        type: git
+        url: https://github.com/MotiAuto/webcam_face_detector.git
+        version: main
+
+    costmap_publisher:
+        type: git
+        url: https://github.com/MotiAuto/costmap_publisher.git
+        version: main
+
+    odom_merger:
+        type: git
+        url: https://github.com/MotiAuto/odom_merger.git
+        version: main
