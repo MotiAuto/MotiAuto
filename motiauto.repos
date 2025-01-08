@@ -79,3 +79,8 @@ repositories:
         type: git
         url: https://github.com/MotiAuto/odom_merger.git
         version: main
+
+    voxel_grid_filter_ros2:
+        type: git
+        url: https://github.com/MotiAuto/voxel_grid_filter_ros2.git
+        version: main
