@@ -84,3 +84,8 @@ repositories:
         type: git
         url: https://github.com/MotiAuto/voxel_grid_filter_ros2.git
         version: main
+
+    pifod_ros2:
+        type: git
+        url: https://github.com/MotiAuto/pifod_ros2.git
+        version: main
