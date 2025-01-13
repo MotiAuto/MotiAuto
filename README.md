@@ -11,12 +11,6 @@ chmod +x ./set_env.sh
 . install/setup.bash
 ```
 
-# SIM
-シミュレーションの実行。TurtleSimをロボットとしたシミュレーションを行える
-```
-ros2 launch moti_auto_launch sim.launch.xml
-```
-
 # Auto Driving
 自律走行ソフトウェアの起動
 ```
