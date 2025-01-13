@@ -89,3 +89,8 @@ repositories:
         type: git
         url: https://github.com/MotiAuto/pifod_ros2.git
         version: main
+
+    odom_poser_ros2:
+        type: git
+        url: https://github.com/MotiAuto/odom_poser_ros2.git
+        version: main
