@@ -9,11 +9,6 @@ repositories:
         url: https://github.com/MotiAuto/wpc_app_bridge.git
         version: main
 
-    simple_local_planner:
-        type: git
-        url: https://github.com/MotiAuto/simple_local_planner.git
-        version: main
-
     waypoint-create-app:
         type: git
         url: https://github.com/MotiAuto/waypoint-create-app.git
@@ -22,11 +17,6 @@ repositories:
     linear_path_planner:
         type: git
         url: https://github.com/MotiAuto/linear_path_planner.git
-        version: main
-
-    turtlesim_connector:
-        type: git
-        url: https://github.com/MotiAuto/turtlesim_connector.git
         version: main
 
     ioo_ros2:
@@ -53,7 +43,6 @@ repositories:
         type: git
         url: https://github.com/MotiAuto/serial_controller.git
         version: main
-
     
     icp_odom_ros2:
         type: git
@@ -68,16 +57,6 @@ repositories:
     webcam_face_detector:
         type: git
         url: https://github.com/MotiAuto/webcam_face_detector.git
-        version: main
-
-    costmap_publisher:
-        type: git
-        url: https://github.com/MotiAuto/costmap_publisher.git
-        version: main
-
-    odom_merger:
-        type: git
-        url: https://github.com/MotiAuto/odom_merger.git
         version: main
 
     voxel_grid_filter_ros2:
