@@ -1,7 +1,7 @@
 repositories:
     haya_imu_ros2:
         type: git
-        url: https://github.com/motii8128/haya_imu_ros2.git
+        url: https://github.com/MotiAuto/haya_imu_ros2.git
         version: main
 
     haya_imu_msgs:
